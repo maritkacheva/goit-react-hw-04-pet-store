@@ -1,0 +1,28 @@
+.navigation {
+    background-color: rgb(169, 160, 44);
+    margin-bottom: 20px;
+  }
+  
+  .navigationList {
+    display: flex;
+    justify-content: flex-start;
+    list-style: none;
+    padding: 0 20px;
+  }
+  
+  .navigationItem {
+    color: white;
+    font-weight: bold;
+  }
+  
+  .link {
+    line-height: 70px;
+    font-size: 25px;
+    color: #fff;
+    text-decoration: none;
+    padding: 0 20px;
+  }
+  
+  .active {
+    color: rgb(145, 13, 63);
+  }

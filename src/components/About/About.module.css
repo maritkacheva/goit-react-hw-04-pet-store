@@ -1,0 +1,13 @@
+.sectionAbout {
+    padding: 10px 100px 0;
+    color: rgb(47, 47, 47);
+  }
+  
+  .title {
+    font-size: 30px;
+  }
+  
+  .descrAbout {
+    padding: 20px 0;
+    font-size: 23px;
+  }
